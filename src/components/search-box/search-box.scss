@@ -1,0 +1,20 @@
+.search-container button {
+  padding: 6px 10px;
+  margin-top: 8px;
+  margin-right: 16px;
+  background: #ddd;
+  font-size: 17px;
+  border-width: 1px 1px 1px 0px;
+    border-style: solid;
+    border-color: #b7bac2;
+  cursor: pointer;
+}
+
+input[type=text] {
+    padding: 6px;
+    margin-top: 8px;
+    font-size: 17px;
+    border-width: 1px 0px 1px 1px;
+    border-style: solid;
+    border-color: #b7bac2;
+  }
